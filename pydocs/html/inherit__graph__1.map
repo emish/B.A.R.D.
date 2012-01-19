@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" href="$classbard_1_1Client.html" title="Implements basic client functions for connecting to server and recieving data in the form of a string..." alt="" coords="5,5,96,32"/>
+<area shape="rect" href="$classbard_1_1FileUpdateThread.html" title="Performs updates to local files based on server response." alt="" coords="144,5,309,32"/>
+</map>
